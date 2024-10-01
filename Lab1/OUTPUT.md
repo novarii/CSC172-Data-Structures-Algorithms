@@ -5,7 +5,6 @@
 
 ### Author Information
 - **Name:** Eray BOZOGLU
-- 
 ---
 
 ### Lab Synopsis
